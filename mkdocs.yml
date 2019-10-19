@@ -1,0 +1,20 @@
+site_name: flexy_google_images
+site_description: Flexible Google Images download
+site_author: Dmytro Chaban
+
+repo_url: https://github.com/dmi3coder/flexy_google_images
+edit_uri: https://github.com/dmi3coder/flexy_google_images/edit/master/docs
+
+theme: readthedocs
+
+markdown_extensions:
+  - codehilite:
+      linenums: true
+
+nav:
+- Home: index.md
+- Advanced: advanced.md
+- About:
+  - Release Notes: about/changelog.md
+  - Contributing: about/contributing.md
+  - License: about/license.md
